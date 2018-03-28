@@ -1,0 +1,8 @@
+::Powerball::
+
+A C# console app to play Powerball.
+
+- User can create a ticket and pick numbers.
+- User can auto generate a ticket.
+- User can lookup tickets.
+- User can play the game and get list of tickets with matching numbers.
